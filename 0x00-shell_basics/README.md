@@ -14,4 +14,5 @@ the file 12-file_type has a script that prints the type of the file named iamafi
 the file 13-symbolic_link creates  a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 the file 14-copy_html has a a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 the file 100-lets_move has a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
-the file 101-clean_emacs has a script that deletes all files in the current working directory that end with the character ~ 
+the file 101-clean_emacs has a script that deletes all files in the current working directory that end with the character ~
+the file 102-tree has a a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
